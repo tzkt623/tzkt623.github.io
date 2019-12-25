@@ -1,5 +1,5 @@
 # Site settings
-title: 特兹卡特
+title: 聚集地
 SEOTitle: Tezcat Blog | BY Blog
 header-img: img/header-img.jpg
 email: tzkt623@qq.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/tzkt623/tzkt623.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我们的征程是星辰大海"
+sidebar-about-description: "特兹卡特(Tezcat) 独立游戏开发者"
 sidebar-avatar: /img/1605.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
